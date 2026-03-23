@@ -1,4 +1,4 @@
-##About Me
+## About Me
 I am a passionate and dedicated student currently pursuing my studies at Vit Bhopal University.  
 I enjoy learning new technologies, solving problems, and building projects that enhance my skills.
 
@@ -11,7 +11,7 @@ I enjoy learning new technologies, solving problems, and building projects that 
 -Database: MySQL 
 -Tools: VS Code, Git, GitHub 
 
-##Project: CGPA Calculator
+## Project: CGPA Calculator
 The **CGPA Calculator** is a simple and efficient project designed to calculate a student's CGPA based on subject grades.
 
 ### 🔹 Features
@@ -25,7 +25,7 @@ The **CGPA Calculator** is a simple and efficient project designed to calculate 
 
 ---
 
-##Career Goals
+## Career Goals
 My goal is to become a successful software developer and work on impactful projects that solve real-world problems.  
 I aim to continuously improve my skills and contribute to innovative technologies.
 
