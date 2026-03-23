@@ -33,8 +33,7 @@ I aim to continuously improve my skills and contribute to innovative technologie
 
 ## 📫 Connect with Me
 - 📧 Email:sristi.25bhi10065@vitbhopal.ac.in 
-- 💼 LinkedIn:
-- 🌐 GitHub:
+
 
 ---
 
